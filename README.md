@@ -1,4 +1,4 @@
-# MyContacts (Web)
+# MyContacts (Web Client)
 
 Web client of the MyContacts, a contact agenda app.
 
